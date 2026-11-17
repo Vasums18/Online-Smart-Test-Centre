@@ -1,4 +1,4 @@
-# Smart Test Center (STC) - Enhanced Version
+# Online-Smart-Test-Centre
 
 A comprehensive online testing platform with advanced features for students, mentors, and administrators.
 
